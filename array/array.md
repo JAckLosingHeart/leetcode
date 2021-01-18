@@ -5,3 +5,4 @@
 - Random类可以用nextInt(n)取随机数, The method call returns a pseudorandom, uniformly distributed int value between 0 (inclusive) and n (exclusive).
 - 我才知道的非常重要的一件事：list remove函数传入立即数或者int型变量，会按照传入值是index删除，传如Object的子类才会按照值删除，而且只会删除第一个出现的值
 - map remove当然remove的是key
+- Arrays.toString 是真能把array按照数组格式输出

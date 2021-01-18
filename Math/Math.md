@@ -10,4 +10,6 @@
       }
   ```
 
-- StringBuilder.reverse()可以直接reverse字符串很好用
+- StringBuilder.reverse()可以直接reverse字符串很好用，这个reverse是通过在字符数组中将对称元素交换得到的
+
+  ，而整数的交换则是通过7 reverse integer那样实现的
